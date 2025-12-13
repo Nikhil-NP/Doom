@@ -1,4 +1,4 @@
-# DOOM in Docker 🎮
+# DOOM in Docker 
 
 Run the classic DOOM game in a Docker container!
 
