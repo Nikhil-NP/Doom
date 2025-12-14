@@ -12,7 +12,7 @@ Run the classic DOOM game in a Docker container!
 
 ### Build the Docker image:
 ```bash
-sudo docker build -t doom-game .
+sudo docker build -t doom .
 ```
 
 ### Run DOOM:

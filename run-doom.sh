@@ -8,7 +8,7 @@ sudo docker run --rm \
      -v /tmp/.X11-unix:/tmp/.X11-unix \
      -v $(pwd)/saves:/doom/saves \
      -e DISPLAY=$DISPLAY \
-     doom-game
+     doom
 
 xhost -local:docker
 
